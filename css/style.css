@@ -1,0 +1,58 @@
+body{
+	
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#f4f4f4;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
+
+.btn-success{
+	background-color: #f4f4f4;
+	color: #000;
+	border-radius: 0;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 500;
+	padding: 15px 40px;
+}
+
+.cooling h2{
+	text-align: center;
+	padding: 5%;
+}
+
+.cooling{
+	text-align: center;
+}
+
+footer.social-nav{
+	background-color:#f4f4f4;
+	padding: 10px 30px;
+	color: #898989;
+	font-weight: 100;
+	
+}
+
+.social-nav i{
+	width: 28px;
+	height: 28px;
+	line-height: 28px;
+	text-align: center;
+	color: #898989;
+	border-radius: 100%;
+	}
+
+
+
